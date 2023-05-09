@@ -2,7 +2,7 @@
 """
 Created on Mon May  8 21:55:07 2023
 
-@author: Eraldo
+@author: Rebeca
 """
 
 # Definindo a matriz A como uma lista de listas
